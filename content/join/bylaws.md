@@ -7,7 +7,7 @@ tags = ['join info']
 
 # BYLAWS OF THE PUGET SOUND SOCIALIST RIFLE ASSOCIATION
 
-*Amended through \[Insert Date Here\]*
+*Amended through \[January 1, 2026\]*
 
 ## SECTION ZERO: DEFINITIONS AND SUPREMACY [🔗](#0) {#0}
 
@@ -327,6 +327,6 @@ In the event that a member of the CCC has invoked the delisting procedure all po
 
 # ARTICLE NINE: RATIFICATION [🔗](#9) {#9}
 
-Pursuant to [Article Ten of the revised Socialist Rifle Association Bylaws](https://socialistra.org/bylaws/#article-ten-continuity), the Puget Sound Socialist Rifle Association formally ratified these bylaws on [insert ratification date here], with X ayes and X nays, witnessed by Interim Chapter Secretary TBD. The Organizing Committee of the Socialist Rifle Association granted recognition of this ratification on [insert recognition date here].
+Pursuant to [Article Ten of the revised Socialist Rifle Association Bylaws](https://socialistra.org/bylaws/#article-ten-continuity), the Puget Sound Socialist Rifle Association formally ratified these bylaws on January 1, 2026, with 83 ayes and 0 nays, witnessed by Interim Chapter Secretary Pastoral Shackle. The Organizing Committee of the Socialist Rifle Association granted recognition of this ratification on \[recognition date pending\].
 
 # ARTICLE TEN: AMENDMENTS TO THE BYLAWS [🔗](#10) {#10}
